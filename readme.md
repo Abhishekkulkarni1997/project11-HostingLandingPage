@@ -13,7 +13,7 @@
 ### Time Required to finish the project
     (3.5 hrs)
 
- [Deployed Link](https://css-html-project-eleven.netlify.app/)
+ [Deployed Link](https://project-11-hostinglanding-page.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
